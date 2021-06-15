@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CowinSlotsAlert</string>
+    <string name="eighteen">18-44</string>
+    <string name="fortyFive">45+</string>
+    <string name="covishield">Covishield</string>
+    <string name="covaxin">Covaxin</string>
+    <string-array name="state_array">
+        <item>Arunanchal Pradesh</item>
+        <item>Haryana</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+    </string-array>
+
+    <string-array name="district_array">
+        <item>Jammu</item>
+        <item>Basti</item>
+        <item>Gorakhpur</item>
+        <item>Lucknow</item>
+    </string-array>
+
+    <string name="get_states_url">https://cdn-api.co-vin.in/api/v2/admin/location/states</string>
+    <string name="get_districts_url">https://cdn-api.co-vin.in/api/v2/admin/location/districts/%d</string>
+</resources>
